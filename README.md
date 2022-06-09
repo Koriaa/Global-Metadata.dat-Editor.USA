@@ -2,7 +2,7 @@
 ## For Android games exported from the backend of the Unity-il2cpp script, the strings appearing in the code will be compiled into the assets\bin\Data\Managed\Metadata\global-metadata.dat file. As a part of the localization work, a simple tool is used Modify the string in it.
 
  * Reference
-## il2cppdumper
+ * ## il2cppdumper
 
 ### The understanding of the content of this file is learned from the source code of this tool. The tool itself is used to export class definitions from the compiled libil2cpp.so file and global-metadata.dat file. The export format includes IDA available Rename scripts, DLLs available in UABE and AssetStudio, etc., is a very useful tool.
 Modify content
