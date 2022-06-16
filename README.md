@@ -1,4 +1,4 @@
-# Partial string modification tool of global-metadata.dat
+# Partial string modification tool of global-metadata.dat In **ENGLISH**
 ## For Android games exported from the backend of the Unity-il2cpp script, the strings appearing in the code will be compiled into the assets\bin\Data\Managed\Metadata\global-metadata.dat file. As a part of the localization work, a simple tool is used Modify the string in it.
 
  * ## Reference
